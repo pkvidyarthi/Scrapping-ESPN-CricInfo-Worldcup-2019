@@ -19,7 +19,7 @@ fs         ==>  [To access physical file system and I/O operations.]
 excel4node ==>  [To create Formatted Excel Files.]
 pdf-lib    ==> [To create and edit PDFs with Node JS.]
 
-After the code is run successfully, "gitRepo.png" will show you that how folder/directory look like with those files which is made after running code. So check gitRepo.png once.
+After the code is run successfully, "githubRepo.png" will show you that how folder/directory look like with those files which is made after running code. So check githubRepo.png once.
 
 Note : You can use any other library which is required for your work,
 I used thes libraries because I feel familiar with it and easy to use, so you can use as your choice and requirement. 
