@@ -19,7 +19,7 @@ fs         ==>  [To access physical file system and I/O operations.]
 excel4node ==>  [To create Formatted Excel Files.]
 pdf-lib    ==> [To create and edit PDFs with Node JS.]
 
-After successfull run, you will see your folder look like with those files, which are shown in image as Template.
+After successfull run, you will see your folder look like with those files, which are shown in image as "githubRepo.png".
 
 Note : You can use any other library which is required for your work,
 I used thes libraries because I feel familiar with it and easy to use, so you can use as your choice and requirement. 
